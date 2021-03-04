@@ -1,0 +1,14 @@
+C:\Users\Leonid\source\repos\Remonter\Remonter\bin\Debug\Remonter.exe
+C:\Users\Leonid\source\repos\Remonter\Remonter\bin\Debug\Remonter.pdb
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.csprojAssemblyReference.cache
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.Form1.resources
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.Properties.Resources.resources
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.csproj.GenerateResource.cache
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.exe
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.pdb
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.MainMenu.resources
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.NewOrder.resources
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.NewCust.resources
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.OldOrder.resources
+C:\Users\Leonid\source\repos\Remonter\Remonter\obj\Debug\Remonter.NewPerf.resources
